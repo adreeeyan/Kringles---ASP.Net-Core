@@ -1,0 +1,5 @@
+{
+  "Data": {
+    "KringlesContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=KringlesDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
